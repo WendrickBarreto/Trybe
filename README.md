@@ -3,6 +3,8 @@
 </h1>
 
 <h1 align="center">Bloco 5</h1>
+</br>
+<h2 align="center">JavaScript: DOM, Eventos e Web Storage</h2>
 
 <p align="center">
   <a href="#descricao">Descrição</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -16,6 +18,9 @@
 
 </br>
 <h2 id="dia"><strong>Dia:<strong></h2>
+<ul>
+  <li><a src="Bçoco_5/Dia_1/">Dia 1: Dom e Seletores</a></li>
+</ul>
 
 </br>
 <h2 id="projeto"><strong>Projeto:<strong></h2>
