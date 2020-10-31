@@ -13,13 +13,20 @@
 </p>
 
 </br>
-<h2 id="descricao"><strong>Descrição:<strong></h2>
+<h2 id="descricao"><strong>Descrição:</strong></h2>
 <p>Branch para armazenamento das <a href="#dia">atividades do dia</a> e <a href="#projeto">projeto</a> do bloco 5.</p>
+<strong>Legenda:</strong>
+<ul>
+ <li>:rage: = Desistir de terminar.</li>
+ <li>:turtle: = Fazendo e Não sei quando vou terminar.</li>
+ <li>:green_book: = Terminando.</li>
+ <li>:heavy_check_mark: = Concluído.</li>
+</ul>
 
 </br>
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
-  <li><a src="Bçoco_5/Dia_1/">Dia 1: Dom e Seletores</a></li>
+  <li><a href="Bloco_5/Dia_1/">Dia 1: Dom e Seletores </a>:heavy_check_mark:</li>
 </ul>
 
 </br>
