@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício 5.2</title>
+    <style>
+      div {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+
+      .main-content .left-content {
+        background-color: green;
+        width: 60%;
+        margin-left: 0;
+        margin-right: auto;
+      }
+
+      .main-content .left-content .small-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 100%;
+      }
+
+      .main-content .right-content {
+        background-color: blue;
+        width: 60%;
+        margin-left: auto;
+        margin-right: 0;
+      }
+
+      .main-content .description {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+        // Part 1
+
+            // 1
+            let papa = document.querySelector("body");
+            let filhote = document.createElement("h1");
+            filhote.innerText = "Exercício 5.2 - JavaScript DOM";
+            papa.appendChild(filhote);
+
+            // 2
+            filhote = document.createElement("div");
+            filhote.className = "main-content";
+            papa.appendChild(filhote);
+
+            // 3
+            papa = document.querySelector(".main-content");
+            filhote = document.createElement("div");
+            filhote.className = "center-content";
+            papa.appendChild(filhote);
+
+            // 4
+            papa = document.querySelector(".center-content");
+            filhote = document.createElement("p");
+            filhote.innerText = "XABLAU!!!!!!!!";
+            papa.appendChild(filhote);
+
+            // 5
+            papa = document.querySelector(".main-content");
+            filhote = document.createElement("div");
+            filhote.className = "left-content";
+            papa.appendChild(filhote);
+
+            // 6
+            filhote = document.createElement("div");
+            filhote.className = "right-content";
+            papa.appendChild(filhote);
+
+            // 7
+            papa = document.querySelector(".left-content");
+            filhote = document.createElement("img");
+            filhote.className = "small-image";
+            filhote.src = "https://picsum.photos/200";
+            papa.appendChild(filhote);
+
+            // 8
+            let lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+            papa = document.querySelector(".right-content");
+            filhote = document.createElement("ul");
+            for (let i = 0; i < lista.length; i++) {
+                let filhote2 = document.createElement("li");
+                filhote2.innerText = lista[i];
+                filhote2.className = "listaItem";
+                filhote.appendChild(filhote2);
+            }
+            papa.appendChild(filhote);
+
+            // 9
+            papa = document.querySelector(".main-content");
+            for (let i = 0; i < 3; i++) {
+                let filhote = document.createElement("h3");
+                filhote.innerText = `${i + 1} macaco`;
+                papa.appendChild(filhote);
+            }
+
+        // Part 2
+            
+            // 1
+            let papa2 = document.querySelector("h1");
+            papa2.className = "title";
+
+            // 2
+            papa2 = document.querySelectorAll("h3");
+            for (let i = 0; i < papa2.length; i++) {
+                papa2[i].className = "description";
+            }
+
+            // 3
+            papa2 = document.querySelector(".main-content");
+            papa2.removeChild(papa2.firstElementChild.nextElementSibling);
+
+            // 4
+            papa2 = document.querySelector(".right-content");
+            papa2.style.marginRight = "auto";
+
+            // 5
+            papa2 = document.querySelector(".center-content");   
+            papa2.style.backgroundColor = "green";
+
+            // 6
+            papa2 = document.querySelector(".right-content ul");
+            papa2.removeChild(papa2.lastElementChild);
+            papa2.removeChild(papa2.lastElementChild);
+    </script>
+  </body>
+</html>

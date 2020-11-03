@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <body>
+        <div id="paiDoPai">
+            <div id="pai">
+                <div id="primeiroFilho"></div>
+                <div id="elementoOndeVoceEsta">
+                    <div id="primeiroFilhoDoFilho"></div>
+                    <div id="segundoEUltimoFilhoDoFilho"></div>
+                </div>
+                Atenção!
+                <div id="terceiroFilho"></div>
+                <div id="quartoEUltimoFilho"></div>
+            </div>
+        </div>
+
+        <script>
+            // 1
+            console.log(document.querySelector("#elementoOndeVoceEsta"));
+            // 2
+            console.log(document.querySelector("#elementoOndeVoceEsta").parentNode.style.color = "orange");
+            // 3
+            console.log(document.querySelector("#primeiroFilhoDoFilho").innerText = "XABLAU!!!!");
+            // 4
+            console.log(document.querySelector("#pai").firstElementChild);
+            // 5
+            console.log(document.querySelector("#elementoOndeVoceEsta").previousElementSibling);
+            // 6
+            console.log(document.querySelector("#elementoOndeVoceEsta").nextSibling);
+            // 7
+            console.log(document.querySelector("#elementoOndeVoceEsta").nextSibling.nextSibling);
+            // 8
+            console.log(document.querySelector("#pai").firstElementChild.nextElementSibling.nextElementSibling);
+        </script>
+    </body>
+</html>

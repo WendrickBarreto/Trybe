@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <body>
+        <div id="paiDoPai">
+            <div id="pai">
+                <div id="primeiroFilho"></div>
+                <div id="elementoOndeVoceEsta">
+                    <div id="primeiroFilhoDoFilho"></div>
+                    <div id="segundoEUltimoFilhoDoFilho"></div>
+                </div>
+                Atenção!
+                <div id="terceiroFilho"></div>
+                <div id="quartoEUltimoFilho"></div>
+            </div>
+        </div>
+
+        <script>
+            // 1
+            let pai = document.querySelector("#pai");
+            let outroFilho = document.createElement("div");
+            outroFilho.className = "outroFilho";
+            pai.appendChild(outroFilho);
+            console.log(document.querySelector("#pai"));
+            // 2
+            let elementoOndeVoceEsta = document.querySelector("#elementoOndeVoceEsta");
+            let terceiroFilho = document.createElement("div");
+            terceiroFilho.className = "terceiroFilho";
+            elementoOndeVoceEsta.appendChild(terceiroFilho);
+            console.log(document.querySelector("#elementoOndeVoceEsta"));
+            // 3
+            let primeiroFilhoDoFilho = document.querySelector("#primeiroFilhoDoFilho");
+            let primeiroFilhoDoPrimeiroFilhoDoFilho = document.createElement("div");
+            primeiroFilhoDoPrimeiroFilhoDoFilho.className = "primeiroFilhoDoPrimeiroFilhoDoFilho";
+            primeiroFilhoDoFilho.appendChild(primeiroFilhoDoPrimeiroFilhoDoFilho);
+            console.log(document.querySelector("#primeiroFilhoDoFilho"));
+            // 4
+            console.log(document.querySelector(".primeiroFilhoDoPrimeiroFilhoDoFilho").parentElement.parentElement.nextElementSibling);
+        </script>
+    </body>
+</html>

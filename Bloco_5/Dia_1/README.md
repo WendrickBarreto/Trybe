@@ -17,6 +17,7 @@
 <p>A atividade trata-se de transformar os retângulo em preto e branco no retângulos coloridos utilizando os seletores segundo as imgens abaixo:</p>
 <img alt="Retângulo preto e branco" src="Imagens/retanguloPretoBranco.png" width="200px">
 <img alt="Retângulo colorido" src="Imagens/retangulosColoridos.png" width="194px">
+
 <li id="exercicio"><a href="exercício.html">Modificar o site.</a></li>
 <p>A atividade trata-se de modificar o site base, utilizando seletores, segundo os parâmetros apresentados abaico:</p>
 <img alt="Parâmetros" src="Imagens/parametros.png" width="700px">
