@@ -15,14 +15,14 @@
 </br>
 <h2 id="descricao">Descrição dos exercícios do dia:</h2>
 
-<li id="atividade1"><a href="AtividadeQuadrado.html">Treinar a busca de elementos.</a></li>
+<li id="atividade1"><a href="atividadePart1.html">Treinar a busca de elementos.</a></li>
 <p>A atividade trata-se da busca pelos parentes de um elemento de um site já pronto feito pela <strong>Trybe</strong>.</br>Comandos que podem ser utilizados: </p>
 <img alt="Imagem Comandos" src="Imagens/comandos.png" width = "400px">
 
-<li id="atividade2"><a href="AtividadeQuadrado.html">Treinar a criação de elementos.</a></li>
+<li id="atividade2"><a href="atividadePart2.html">Treinar a criação de elementos.</a></li>
 <p>A atividade trata-se da criação de elementos de um site já pronto feito pela <strong>Trybe</strong>.</br>Comandos utilizado: <strong>Variável.createElement("nome da tag");</strong></p>
 
-<li id="atividade3"><a href="AtividadeQuadrado.html">Treinar a remoção de elementos.</a></li>
+<li id="atividade3"><a href="atividadePart3.html">Treinar a remoção de elementos.</a></li>
 <p>A atividade trata-se da remoção de elementos de um site já pronto feito pela <strong>Trybe</strong>.</br>Comandos utilizado: <strong>Variável.removeChild("todo o elemento");</strong></p>
 
 <li id="exercicio"><a href="exercício.html">Criação e modificação de um site.</a></li>

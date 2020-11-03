@@ -27,6 +27,7 @@
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
   <li><a href="Bloco_5/Dia_1/">Dia 1: Dom e Seletores </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_5/Dia_2/">Dia 2: Trabalhando com elementos </a>:heavy_check_mark:</li>
 </ul>
 
 </br>
