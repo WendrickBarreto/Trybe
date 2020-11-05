@@ -28,7 +28,7 @@
 <ul>
   <li><a href="Bloco_5/Dia_1/">Dia 1: Dom e Seletores </a>:heavy_check_mark:</li>
   <li><a href="Bloco_5/Dia_2/">Dia 2: Trabalhando com elementos </a>:heavy_check_mark:</li>
-  <li><a href="Bloco_5/Dia_3/">Dia 3: Eventos </a>:green_book:</li>
+  <li><a href="Bloco_5/Dia_3/">Dia 3: Eventos </a>:heavy_check_mark:</li>
 </ul>
 
 </br>

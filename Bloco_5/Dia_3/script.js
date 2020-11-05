@@ -36,10 +36,10 @@ for (let i = 0; i < dezDaysList.length; i++) {
 }
 
 // 2
-function botão(Feriados) {
+function botão(feriados) {
     let button = document.createElement("button");
     button.id = "btn-holiday";
-    button.innerText = "Feriados";
+    button.innerText = feriados;
     buttonContainer.appendChild(button);
 } 
 botão("Feriados");
@@ -66,7 +66,7 @@ button.addEventListener("click", function(){
 function botão2(sextaFeira) {
     let button = document.createElement("button");
     button.id = "btn-friday";
-    button.innerText = "Sexta-Feira";
+    button.innerText = sextaFeira;
     buttonContainer.appendChild(button);
 } 
 botão2("Sexta-Feria");
@@ -92,3 +92,100 @@ button2.addEventListener("click", function(){
 });
 
 // 6
+function mouseOver() {
+    let day = document.querySelector("#days");
+    day.addEventListener("mouseover", function(event) {
+        event.target.style.fontSize = "30px";
+    })
+}
+function mouseOut() {
+    let day = document.querySelector("#days");
+    day.addEventListener("mouseout", function(event) {
+        event.target.style.fontSize = "20px";
+    })
+}
+
+mouseOver();
+mouseOut();
+
+// 7
+let tasks = document.querySelector(".my-tasks");
+
+function task(taskizinha) {
+    let task = document.createElement("span");
+    task.innerText = taskizinha;
+    tasks.appendChild(task);
+}
+task("Comer");
+
+// 8
+function trocarCor(cor){
+    let task = document.createElement("div");
+    task.className = "task";
+    task.style.backgroundColor = cor;
+    tasks.appendChild(task);
+}
+trocarCor("green");
+
+// 9
+function selecionar() {
+    let selectedTask = document.getElementsByClassName("task selected");
+    let task = document.querySelector(".task");
+    task.addEventListener("click", function(event) {
+        if (selectedTask.length === 0) {
+            event.target.className = 'task selected';
+        }else {
+            event.target.className = 'task';
+        }
+    })
+}
+selecionar();
+
+// 10
+function botarCorzinha() {
+    let selectedTask = document.getElementsByClassName("task selected");
+    let task = document.querySelector(".task");
+    let day = document.querySelector('#days');
+
+    day.addEventListener("click", function(event) {
+        let eventTargetColor = event.target.style.color;
+        if (selectedTask.length > 0 && eventTargetColor !== task) {
+            let color = selectedTask[0].style.backgroundColor;
+            event.target.style.color = color;
+        }else if (eventTargetColor === task && selectedTask.length !== 0) {
+            event.target.style.color = 'rgb(119,119,119)';
+        }
+    })
+}
+botarCorzinha();
+
+// Bônus
+function addNewTask() {
+let getInputField = document.querySelector('#task-input');
+let addInputButton = document.querySelector('#btn-add');
+let getTaskList = document.querySelector('.task-list');
+
+addInputButton.addEventListener('click', function() {
+    if (getInputField.value.length > 0) {
+    let newLi = document.createElement('li');
+    newLi.innerText = getInputField.value;
+
+    getTaskList.appendChild(newLi);
+    getInputField.value = '';
+    } else {
+    alert('Error: Digite ao menos 1 caractere.');
+    }
+})
+
+getInputField.addEventListener('keyup', function(event) {
+    if (event.keyCode === 13 && getInputField.value.length > 0) {
+    let newLi = document.createElement('li');
+    newLi.innerText = getInputField.value;
+
+    getTaskList.appendChild(newLi);
+    getInputField.value = '';
+    }
+});
+};
+
+addNewTask();
