@@ -18,3 +18,4 @@
 
 <li id="exercicio.html"><a href="script.js">Criando eventos.</a></li>
 <p>Exércio de revisão dos conteúdos passados no dia 1, 2 e 3 do bloco 5.</p>
+<img alt="Imagem exercicio" src="Imagens/exercicio.png">
