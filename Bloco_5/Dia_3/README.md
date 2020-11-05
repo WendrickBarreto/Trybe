@@ -17,4 +17,4 @@
 <p>Atividade realizada no code pen. Dividido em 4 atividades para servir de treinamento em criação de eventos no JavaScript.</p>
 
 <li id="exercicio.html"><a href="exercicio.html">Criando eventos.</a></li>
-<p></p>
+<p>Exércio de revisão dos conteúdos passados no dia 1, 2 e 3 do bloco 5.</p>
