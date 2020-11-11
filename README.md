@@ -29,7 +29,12 @@
   <li><a href="Bloco_5/Dia_1/">Dia 1: Dom e Seletores </a>:heavy_check_mark:</li>
   <li><a href="Bloco_5/Dia_2/">Dia 2: Trabalhando com elementos </a>:heavy_check_mark:</li>
   <li><a href="Bloco_5/Dia_3/">Dia 3: Eventos </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_5/Dia_4/">Dia 4: Web Storage </a>:turtle:</li>
 </ul>
 
 </br>
 <h2 id="projeto"><strong>Projeto:<strong></h2>
+<ul>
+  <li><a href="Bloco_5/Projeto_Pixel_Art/">Projeto 1: Pixel art </a>:green_book:</li>
+  <li><a href="Bloco_5/Projeto_To_Do_List/">Projeto 2: Projeto_To_Do_List </a>:green_book:</li>
+</ul>
