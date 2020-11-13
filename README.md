@@ -26,7 +26,7 @@
 </br>
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
-  <li><a href="Bloco_5/Dia_1/">Dia 1: HTML & CSS - Forms </a>:green_book:</li>
+  <li><a href="Bloco_5/Dia_1/">Dia 1: HTML & CSS - Forms </a>:heavy_check_mark:</li>
 </ul>
 
 </br>
