@@ -26,7 +26,8 @@
 </br>
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
-  <li><a href="Bloco_5/Dia_1/">Dia 1: HTML & CSS - Forms </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_6/Dia_1/">Dia 1: HTML & CSS - Forms </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_6/Dia_2/">Dia 2: Bibliotecas JavaScript e Frameworks CSS </a>:green_book:</li>
 </ul>
 
 </br>
