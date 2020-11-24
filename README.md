@@ -33,4 +33,5 @@
 </br>
 <h2 id="projeto"><strong>Projeto:<strong></h2>
 <ul>
+  <li><a href="Bloco_5/Projeto_Pixel_Art/">Projeto 1: Facebook </a>:heavy_check_mark:</li>
 </ul>
