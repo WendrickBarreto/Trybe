@@ -27,7 +27,7 @@
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
   <li><a href="Bloco_7/Dia_1/">Dia 1: JavaScript ES6 - let, const, arrow functions e template literals </a>:green_book:</li>
-  <li><a href="Bloco_7/Dia_2/">Dia 2: JavaScript ES6 - Objects </a>:green_book:</li>
+  <li><a href="Bloco_7/Dia_2/">Dia 2: JavaScript ES6 - Objects </a>:heavy_check_mark:</li>
 </ul>
 
 </br>
