@@ -28,6 +28,9 @@
 <ul>
   <li><a href="Bloco_6/Dia_1/">Dia 1: HTML & CSS - Forms </a>:heavy_check_mark:</li>
   <li><a href="Bloco_6/Dia_2/">Dia 2: Bibliotecas JavaScript e Frameworks CSS </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_6/Dia_3/">Dia 3: CSS Flexbox - Parte 1 </a>:green_book:</li>
+  <li><a href="Bloco_6/Dia_4/">Dia 4: CSS Flexbox - Parte 2 </a>:green_book:</li>
+  <li><a href="Bloco_6/Dia_5/">Dia 5: CSS Responsivo - Mobile First </a>:green_book:</li>
 </ul>
 
 </br>
