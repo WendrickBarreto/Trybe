@@ -26,7 +26,7 @@
 </br>
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
-  <li><a href="Bloco_8/Dia_1/">JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort</a></li>
+  <li><a href="Bloco_8/Dia_1/">JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort</a>:heavy_check_mark:</li>
   <li><a href="Bloco_8/Dia_2/">JavaScript ES6 - Higher Order Functions - map e filter</a></li>
   <li><a href="Bloco_8/Dia_3/">JavaScript ES6 - Higher Order Functions - reduce</a></li>
   <li><a href="Bloco_8/Dia_4/">JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais</a></li>

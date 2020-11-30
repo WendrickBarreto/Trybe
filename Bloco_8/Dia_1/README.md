@@ -9,13 +9,8 @@
 <h2 id="exercicio">Exercícios do dia:</h2>
 
 <li><a href="#"> </a></li>
-<li><a href="#"> </a></li>
-
 </br>
 <h2 id="descricao">Descrição dos exercícios do dia:</h2>
-
-<li id=""> </li>
-<p> </p>
 
 <li id=""><a href=""> </a></li>
 <p> </p>
