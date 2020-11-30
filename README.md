@@ -34,4 +34,5 @@
 </br>
 <h2 id="projeto"><strong>Projeto:<strong></h2>
 <ul>
+  <li><a href="Bloco_7/Projeto_Testes_Unitarios/">Projeto 1: Testes Unitários</a>:heavy_check_mark:</li>
 </ul>
