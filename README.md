@@ -21,9 +21,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 </br>
 <h2 id="branchs">Branchs:</h2>
 <ul>
-  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco5">Bloco 1</a></li>
+  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco1">Bloco 1</a></li>
+  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco2">Bloco 2</a></li>
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco5">Bloco 5</a></li>
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco6">Bloco 6</a></li>
-  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco5">Bloco 7</a></li>
-  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco5">Bloco 8</a></li>
+  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco7">Bloco 7</a></li>
+  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco8">Bloco 8</a></li>
 </ul>
