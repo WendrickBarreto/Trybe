@@ -26,7 +26,9 @@
 </br>
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
-  <li><a href="Bloco_2/"> </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_2/Dia_1/">Dia 1: Git & GitHub - O que é e para que serve</a>:heavy_check_mark:</li>
+  <li><a href="Bloco_2/Dia_2/">Dia 2: Git & GitHub - Entendendo os comandos</a>:heavy_check_mark:</li>
+  <li><a href="Bloco_2/Dia_3/">Dia 3: Internet - Entendendo como ela funciona</a>:heavy_check_mark:</li>
 </ul>
 
 </br>
