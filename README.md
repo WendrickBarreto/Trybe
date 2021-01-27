@@ -27,4 +27,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco6">Bloco 6</a></li>
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco7">Bloco 7</a></li>
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco8">Bloco 8</a></li>
+  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco9">Bloco 9</a></li>
 </ul>
