@@ -17,17 +17,17 @@
 </br>
 <h2 id="descricao">Descrição dos exercícios do dia:</h2>
 
-<li id="part_1"><a href="Dia_1/part_1.txt">Exercício Parte 1:</a></li>
+<li id="part_1"><a href="/part_1.txt">Exercício Parte 1:</a></li>
 <p>A atividade trata-se da instalação do git na máquina.</p>
 
-<li id="part_2"><a href="Dia_1/part_2.txt">Exercício Parte 2:</a></li>
+<li id="part_2"><a href="/part_2.txt">Exercício Parte 2:</a></li>
 <p>A atividade trata-se da criação de uma conta no Github.</p>
 
-<li id="part_3"><a href="Dia_1/part_3.txt">Exercício Parte 3:</a></li>
+<li id="part_3"><a href="/part_3.txt">Exercício Parte 3:</a></li>
 <p>A atividade trata-se da adição de uma chave SSH na sua conta Github.</p>
 
-<li id="part_4"><a href="Dia_1/part_4.txt">Exercício Parte 4:</a></li>
+<li id="part_4"><a href="/part_4.txt">Exercício Parte 4:</a></li>
 <p>A atividade trata-se do treinamento de como usar o git e mandalo para o Github.</p>
 
-<li id="part_5"><a href="Dia_1/part_5.txt">Exercício Parte 5:</a></li>
+<li id="part_5"><a href="/part_5.txt">Exercício Parte 5:</a></li>
 <p>A atividade trata-se de mandar uns arquivos para o Github.</p>
