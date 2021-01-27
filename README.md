@@ -26,8 +26,8 @@
 </br>
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
-  <li><a href="Bloco_1/Dia_3/"></a>:heavy_check_mark:</li>
-  <li><a href="Bloco_1/Dia_4/"></a>:heavy_check_mark:</li>
+  <li><a href="Bloco_1/Dia_3/">Dia 3: Unix & Bash - Parte 1</a>:heavy_check_mark:</li>
+  <li><a href="Bloco_1/Dia_4/">Dia 4: Unix & Bash - Parte 2</a>:heavy_check_mark:</li>
 </ul>
 
 </br>
