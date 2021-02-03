@@ -26,7 +26,7 @@
 </br>
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
-  <li><a href="Bloco_10/Dia_1/">Primeiros passos no Jest</a>:turtle:</li>
+  <li><a href="Bloco_10/Dia_1/">Primeiros passos no Jest </a>:turtle:</li>
 </ul>
 
 </br>
