@@ -1,4 +1,4 @@
-<h1 align="center">Bloco 10 Dia 1: Primeiros passos no Jest </h1>
+<h1 align="center">Bloco 3 Dia 1: HTML & CSS - Estruturas de página </h1>
 
 <p align="center">
   <a href="#exercicio">Exercícios do dia</a>&nbsp;&nbsp;|&nbsp;&nbsp;

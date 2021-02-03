@@ -2,9 +2,9 @@
   <img alt="Imagem da Trybe" src="Imagens/trybe.png" width="400px">
 </h1>
 
-<h1 align="center">Bloco 10</h1>
+<h1 align="center">Bloco 3</h1>
 </br>
-<h2 align="center">Testes automatizados com Jest</h2>
+<h2 align="center">Introdução à HTML e CSS</h2>
 
 <p align="center">
   <a href="#descricao">Descrição</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 
 </br>
 <h2 id="descricao"><strong>Descrição:</strong></h2>
-<p>Branch para armazenamento das <a href="#dia">atividades do dia</a> e <a href="#projeto">projeto</a> do bloco 9.</p>
+<p>Branch para armazenamento das <a href="#dia">atividades do dia</a> e <a href="#projeto">projeto</a> do bloco 3.</p>
 <strong>Legenda:</strong>
 <ul>
   <li>:rage: = Desistir de terminar.</li>
@@ -26,11 +26,11 @@
 </br>
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
-  <li><a href="Bloco_10/Dia_1/">Primeiros passos no Jest </a>:turtle:</li>
+  <li><a href="Bloco_3/Dia_1/">HTML & CSS - Estruturas de página </a>:turtle:</li>
 </ul>
 
 </br>
 <h2 id="projeto"><strong>Projeto:<strong></h2>
 <ul>
-  <li><a href="Bloco_10/">Projeto ????</a></li>
+  <li><a href="Bloco_3/">Projeto Lessons Learned</a></li>
 </ul>
