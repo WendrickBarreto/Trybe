@@ -1,0 +1,102 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  font-family: sans-serif;
+  line-height: 20px;
+}
+
+#cabecalho {
+  color: white;
+  background-color: rgb(32 , 32 , 44);
+  padding: 24px;
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  text-align: center;
+}
+
+main ul , main li , main ol {
+  border: 1px solid black;
+}
+
+#header-nav ul li {
+  display: inline;
+  margin: 15px;
+}
+
+body {
+  color: black;
+  background-color: rgb(253 , 251 , 251);
+}
+
+#rodape {
+  margin-top: 100px;
+  color: white;
+  padding: 48px;
+  background-color: rgb(32 , 32 , 44);
+}
+
+#minha_foto {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  border-radius: 200px;
+  margin: 20px;
+  margin-top: 150px;
+  border: 15px solid black;
+}
+
+#meu_nome {
+  margin-left: 70px;
+}
+
+#listas_aprendidas {
+  width: 200px;
+  position: absolute;
+  left: 600px;
+  top: 300px;
+}
+
+#listas_a_aprender {
+  width: 230px;
+  position: absolute;
+  left: 900px;
+  top: 300px;
+}
+
+.lado-esquerdo {
+  border: 8px solid black;
+  width: 500px;
+  position: relative;
+  height: 350px;
+  margin-left: 50px;
+  margin-top: 90px;
+}
+
+#aside-article {
+  width: 200px;
+  font-size: 15px;
+  border-left: 5px solid blue;
+  float: right;
+  font-style: italic;
+  background-color: lightblue;
+}
+
+.lado-direito {
+  border: 8px solid black;
+  width: 500px;
+  height: 350px;
+  position: absolute;
+  top: 715px;
+  left: 700px;
+}
+
+#tabela {
+  position: relative;
+  left: 50px;
+  top: 40px;
+}
+
+td , tr , th {
+  border: 1px solid black;
+}

@@ -8,10 +8,11 @@
 </br>
 <h2 id="exercicio">Exercícios do dia:</h2>
 
-<li><a href="#"> </a></li>
+<li><a href="#portifolioStart">Começo da criação do Portifólio.</a></li>
 </br>
 
 <h2 id="descricao">Descrição dos exercícios do dia:</h2>
 
-<li id=""><a href=""></a></li>
-<p></p>
+<li id="portifolioStart"><a href="Bloco_3/Dia_1/portifoilioPart1.html">Começo da criação do Portifólio.</a></li>
+<p>A atividade trata-se de criar um começo de um portifólio utilizado apenas HTML com os seguintes requisiots:</p>
+<img alt="Imagem dos Requisitos" src="/Imagens/renomear.png">

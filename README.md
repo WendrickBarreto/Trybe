@@ -27,10 +27,14 @@
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
   <li><a href="Bloco_3/Dia_1/">HTML & CSS - Estruturas de página </a>:turtle:</li>
+  <li><a href="Bloco_3/Dia_2/">HTML & CSS - Primeiros passos em CSS </a>:turtle:</li>
+  <li><a href="Bloco_3/Dia_3/">HTML & CSS - HTML & CSS - Seletores e posicionamento </a>:turtle:</li>
+  <li><a href="Bloco_3/Dia_4/">HTML Semântico </a>:turtle:</li>
 </ul>
 
 </br>
 <h2 id="projeto"><strong>Projeto:<strong></h2>
 <ul>
-  <li><a href="Bloco_3/">Projeto Lessons Learned</a></li>
+  <li><a href="Bloco_3/Projeto_lessonsLearned_Old">Projeto Lessons Learned (Antigo) </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_3/Projeto_lessonsLearned_New">Projeto Lessons Learned (Novo) </a>:turtle:</li>
 </ul>
