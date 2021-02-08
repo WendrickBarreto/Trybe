@@ -14,5 +14,5 @@
 <h2 id="descricao">Descrição dos exercícios do dia:</h2>
 
 <li id="portifolioStart"><a href="portifoilioPart1.html">Começo da criação do Portifólio.</a></li>
-<p>A atividade trata-se de criar um começo de um portifólio utilizado apenas HTML com os seguintes requisiots:</p>
+<p>A atividade trata-se de criar um começo de um portifólio utilizado apenas HTML com os seguintes requisitos:</p>
 <img alt="Imagem dos Requisitos" src="Imagens/renomear.png">
