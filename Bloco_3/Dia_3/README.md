@@ -8,10 +8,11 @@
 </br>
 <h2 id="exercicio">Exercícios do dia:</h2>
 
-<li><a href="#"> </a></li>
+<li><a href="#styleCss">Aprimorando a customização utilizando o Css.</a></li>
 </br>
 
 <h2 id="descricao">Descrição dos exercícios do dia:</h2>
 
-<li id=""><a href=""></a></li>
-<p></p>
+<li id="styleCss"><a href="style.css">Aprimorando a customização utilizando o Css.</a></li>
+<p>A atividade trata-se do aprimoramento dos códigos Css utilizados na página no dia 2 do bloco 3 nos seguintes requisitos:</p>
+<img alt="Imagem dos Requisitos" src="Imagens/requisitos.png">

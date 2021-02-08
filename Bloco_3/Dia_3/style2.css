@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(49, 133,252);
+    font-family: sans-serif;
+}
+
+#profilePicture {
+    width: 300px;
+    position: relative;
+    background-color: black;
+    padding: 25px;
+}
+
+#identification {
+    position: absolute;
+    left: 380px;
+    top: 20px;
+}
+
+#description {
+    position: absolute;
+    left: 380px;
+    top: 80px;
+}
+
+p {
+    color: rgb(182,156, 72);
+}

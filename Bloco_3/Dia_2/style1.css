@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(49, 133,252);
+    font-family: sans-serif;
+}
+
+#profilePicture {
+    width: 300px;
+}
+
+p {
+    color: rgb(182,156, 72);
+}
