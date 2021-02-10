@@ -26,7 +26,7 @@
 </br>
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
-  <li><a href="Bloco_11/Dia_1/">Introdução à React</a>heavy_check_mark:</li>
+  <li><a href="Bloco_11/Dia_1/">Dia 1: Introdução à React </a>:heavy_check_mark:</li>
 </ul>
 
 </br>
