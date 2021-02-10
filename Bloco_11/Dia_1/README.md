@@ -14,7 +14,7 @@
 
 <h2 id="descricao">Descrição dos exercícios do dia:</h2>
 
-<li id="helloWorldReact"><a href="Bloco_11/Dia_1/exercise1-app/">Mexendo um pouco com react.</a></li>
+<li id="helloWorldReact"><a href="exercise1-app/">Mexendo um pouco com react.</a></li>
 <p>A atividade trata-se da instalação e introdução ao react, utilizando-o para criação de uma página com ações.</p>
 
 <li id="reactSite"><a href="https://www.freecodecamp.org/learn/front-end-libraries/react/">Alguns exercícios com react.</a></li>
