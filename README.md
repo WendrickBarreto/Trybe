@@ -24,11 +24,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco1">Bloco 1</a></li>
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco2">Bloco 2</a></li>
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco3">Bloco 3</a></li>
+  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco4">Bloco 4</a></li>
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco5">Bloco 5</a></li>
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco6">Bloco 6</a></li>
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco7">Bloco 7</a></li>
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco8">Bloco 8</a></li>
   <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco9">Bloco 9</a></li>
-  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco9">Bloco 10</a></li>
-  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco9">Bloco 11</a></li>
+  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco10">Bloco 10</a></li>
+  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco11">Bloco 11</a></li>
+  <li><a href="https://github.com/WendrickBarreto/Trybe/tree/Bloco12">Bloco 12</a></li>
 </ul>
