@@ -27,9 +27,9 @@
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
   <li><a href="Bloco_9/Dia_1/">Dia 1: JavaScript - Primeiros passos </a>:heavy_check_mark:</li>
-  <li><a href="Bloco_9/Dia_2/">Dia 2:  </a>:heavy_check_mark:</li>
-  <li><a href="Bloco_9/Dia_3/">Dia 3:  </a>:heavy_check_mark:</li>
-  <li><a href="Bloco_9/Dia_4/">Dia 4:  </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_9/Dia_2/">Dia 2: JavaScript - Array e loop For </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_9/Dia_3/">Dia 3: JavaScript - Lógica de Programação e Algoritmos </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_9/Dia_4/">Dia 4: JavaScript - Objetos e funções </a>:heavy_check_mark:</li>
 </ul>
 
 </br>

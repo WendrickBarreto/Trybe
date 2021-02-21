@@ -14,4 +14,4 @@
 <h2 id="descricao">Descrição dos exercícios do dia:</h2>
 
 <li id="exerciseBasic"><a href="exercise.js"></a>Exercícios de treinamento do JS.</li>
-<p></p>
+<p>A atividade trata-se da utilização de códigos JS como if e else ou de ações aritiméticas como adição, subtração, mutiplicação e divisão.</p>
