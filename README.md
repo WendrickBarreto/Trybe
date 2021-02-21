@@ -26,10 +26,10 @@
 </br>
 <h2 id="dia"><strong>Dia:<strong></h2>
 <ul>
-  <li><a href="Bloco_3/Dia_1/">HTML & CSS - Estruturas de página </a>:heavy_check_mark:</li>
-  <li><a href="Bloco_3/Dia_2/">HTML & CSS - Primeiros passos em CSS </a>:heavy_check_mark:</li>
-  <li><a href="Bloco_3/Dia_3/">HTML & CSS - HTML & CSS - Seletores e posicionamento </a>:heavy_check_mark:</li>
-  <li><a href="Bloco_3/Dia_4/">HTML Semântico </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_3/Dia_1/">Dia 1: HTML & CSS - Estruturas de página </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_3/Dia_2/">Dia 2: HTML & CSS - Primeiros passos em CSS </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_3/Dia_3/">Dia 3: HTML & CSS - HTML & CSS - Seletores e posicionamento </a>:heavy_check_mark:</li>
+  <li><a href="Bloco_3/Dia_4/">Dia 4: HTML Semântico </a>:heavy_check_mark:</li>
 </ul>
 
 </br>
