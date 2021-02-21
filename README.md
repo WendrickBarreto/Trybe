@@ -35,5 +35,5 @@
 </br>
 <h2 id="projeto"><strong>Projeto:<strong></h2>
 <ul>
-  <li><a href="Bloco_4/projeto_playground/">Projeto 1: Playground Functions</a>:heavy_check_mark:</li>
+  <li><a href="Bloco_4/projeto_playground/">Projeto 1: Playground Functions </a>:heavy_check_mark:</li>
 </ul>
