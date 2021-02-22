@@ -36,7 +36,7 @@
 <h2 id="projeto"><strong>Projeto:<strong></h2>
 <ul>
   <li><a href="Bloco_5/Projeto_Pixel_Art/">Projeto 1: Pixel Art </a>:heavy_check_mark:</li>
-  <li><a href="Bloco_5/Projeto_To_Do_List/">Projeto 2: Projeto To Do List </a>:green_book:</li>
+  <li><a href="Bloco_5/Projeto_To_Do_List/">Projeto 2: Projeto To Do List </a>heavy_check_mark:</li>
   <li><a href="Bloco_5/Projeto_Color_Guess/">Projeto Bônus 1: Projeto Color Guess </a>:turtle:</li>
   <li><a href="Bloco_5/Projeto_Meme_Generator/">Projeto Bônus 2: Projeto Meme Generator </a>:heavy_check_mark:</li>
   <li><a href="Bloco_5/Projeto_Missing_Letters/">Projeto Bônus 3: Projeto Missing Letters </a>:turtle:</li>

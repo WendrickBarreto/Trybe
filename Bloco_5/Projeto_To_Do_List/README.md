@@ -11,9 +11,9 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 ### 🗒ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-08-project-todo-list.git`.
+  * `git clone https://github.com/tryber/sd-09-project-todo-list.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-08-project-todo-list`
+    * `cd sd-09-project-todo-list`
 
 2. Crie uma branch a partir da branch `master`
   * Verifique que você está na branch `master`
